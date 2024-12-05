@@ -1,5 +1,3 @@
-## Lua challenge
-
 ### Example day 1 - part I.
 
 1~3 = `1..3 = 2`
